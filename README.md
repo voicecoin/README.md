@@ -48,6 +48,6 @@ Our team will review your pull request and provide feedback. Once your contribut
 
 ## Contact Us
 
-If you have any questions or feedback about the VoiceWeb Foundation or our projects, please don't hesitate to contact us at [contact@voicewebfoundation.org](mailto:contact@voicewebfoundation.org).
+If you have any questions or feedback about the VoiceWeb Foundation or our projects, please don't hesitate to contact us at [contact@voiceweb.org](mailto:contact@voiceweb.org).
 
 Thank you for your interest in the VoiceWeb Foundation and our mission to create a more connected, voice-driven world!
