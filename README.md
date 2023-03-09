@@ -1,6 +1,6 @@
 # VoiceCoin
 
-![VoiceCoin Logo](voicecoin_logo.png)
+![VoiceCoin Logo](https://avatars.githubusercontent.com/u/33388325?s=200&v=4)
 
 VoiceCoin is a decentralized, peer-to-peer digital currency that enables instant payments with the power of your voice. Built on top of blockchain technology, VoiceCoin provides a secure and efficient way to transact online, without the need for intermediaries or centralized authorities. Whether you're buying goods and services, supporting creators and artists, or simply sending funds to friends and family, VoiceCoin is the payment solution for the voice-first internet.
 
